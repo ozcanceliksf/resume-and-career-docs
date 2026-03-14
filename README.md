@@ -1,2 +1,9 @@
-# resume-and-career-docs
-Resume, career materials, and selected academic project documents related to IT support and cybersecurity.
+# Resume and Career Documents
+
+This repository contains selected professional materials related to my education, technical background, and career development.
+
+## Contents
+- Resume
+- Career documents
+- Selected academic materials
+- Professional profile resources
